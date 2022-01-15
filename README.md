@@ -5,3 +5,7 @@ This repo is just a code dump of various tests done during the development of BF
 
 - `Core` ESP32 core of the robot (used as main onboard computer to control ESCs)
 - `ESC` Arduino motor controllers (one ESC per motor) - Contains code dumps and PCB designs 
+
+![img](https://i.imgur.com/WBS8NUI.png)
+![img](https://i.imgur.com/1vEPCuS.png)
+![img](https://i.imgur.com/QJKlzl8.png)
